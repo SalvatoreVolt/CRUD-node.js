@@ -1,0 +1,27 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "api para efetuar operacoes crud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startdev": "npx nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvatoreVolt/CRUD-node.js.git"
+  },
+  "author": "sv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalvatoreVolt/CRUD-node.js/issues"
+  },
+  "homepage": "https://github.com/SalvatoreVolt/CRUD-node.js#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
